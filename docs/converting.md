@@ -23,3 +23,5 @@ This section will guide you through the steps of converting a word file into Mar
 5. Clean up the syntax in the Markdown file
 
 You should now have a Markdown file with the same contents as your word document.
+
+{% include footer.md %}
