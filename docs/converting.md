@@ -1,4 +1,4 @@
-# Converting from Word to Markdown using Pandoc
+# How to Convert from Word to Markdown using Pandoc
 
 This section will guide you through the steps of converting a word file into Markdown using Pandoc
 
